@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Eleven-Blog</copyright>
-        <lastBuildDate>Mon, 28 Oct 2024 23:34:30 +0800</lastBuildDate><atom:link href="https://whitenightzh.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 28 Oct 2024 23:40:26 +0800</lastBuildDate><atom:link href="https://whitenightzh.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Goend</title>
+        <link>https://whitenightzh.github.io/p/goend/</link>
+        <pubDate>Mon, 28 Oct 2024 23:40:26 +0800</pubDate>
+        
+        <guid>https://whitenightzh.github.io/p/goend/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Testdeploy</title>
         <link>https://whitenightzh.github.io/p/testdeploy/</link>
         <pubDate>Mon, 28 Oct 2024 23:34:30 +0800</pubDate>
